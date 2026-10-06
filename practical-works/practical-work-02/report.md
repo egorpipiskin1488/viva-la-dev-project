@@ -17,25 +17,7 @@
 Репозиторий создан лидером команды (Андриановым Егором) на платформе GitHub.
 Ссылка на репозиторий: https://github.com/hurtresolve/viva-la-dev-project
 3. Структура репозитория
-Репозиторий организован строго по структуре, заданной в методических указаниях:
-viva-la-dev-project/
-├── README.md
-├── docs/
-│   ├── team-contract.md
-│   ├── roles-and-responsibilities.md
-│   └── raci-matrix.md
-├── practical-works/
-│   ├── practical-work-01/
-│   │   ├── report.md
-│   │   └── assets/
-│   ├── practical-work-02/
-│   │   ├── report.md
-│   │   └── assets/
-│   ├── practical-work-03/ ... practical-work-08/
-│   │   ├── report.md
-│   │   └── src/
-├── scripts/
-└── .gitignore
+Репозиторий организован строго по структуре, заданной в методических указаниях.
 Назначение разделов:
 README.md — общая информация о проекте, состав команды, ссылки на основные документы.
 docs/team-contract.md — правила взаимодействия в команде (Telegram-чат, порядок обсуждения задач, принятия решений и соблюдения сроков); перенесено из СР1.
